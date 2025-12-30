@@ -8,7 +8,7 @@ This project was built over **~3 days** and intentionally avoids JavaScript to u
 
 ## 🔗 Visit
 
-👉 **Visit here:** https://pujarijay001.github.io/NetFlix_LandingPage_Clone/
+👉 **Visit here:** https://pujarijay001.github.io/NF_LandingPage/
 
 ---
 

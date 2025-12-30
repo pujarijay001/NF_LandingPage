@@ -6,9 +6,9 @@ This project was built over **~3 days** and intentionally avoids JavaScript to u
 
 ---
 
-## 🔗 Live Demo
+## 🔗 Visit
 
-👉 **Visit here:**
+👉 **Visit here:** https://pujarijay001.github.io/NetFlix_LandingPage_Clone/
 
 ---
 
@@ -116,21 +116,10 @@ This highlighted the importance of:
 
 ---
 
-## 🚀 Future Improvements
-
-- Add JavaScript for:
-  - Slider controls
-  - Form validation
-- Improve accessibility (focus-visible states)
-- Convert CSS to SCSS for better structure
-- Pixel-perfect comparison with real Netflix UI
-
----
-
 ## 🙌 Credits
 
 Netflix UI inspired design  
-Built by **Jay Pujari**  
+Built by Me **Jay Pujari**  
 
 ---
 

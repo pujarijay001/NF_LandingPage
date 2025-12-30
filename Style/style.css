@@ -188,7 +188,7 @@ header {
 
 }
 
-#Email {
+#Text {
     padding: 1rem 1rem 0.5rem 1rem;
     width: 30rem;
     height: 2.4rem;
@@ -202,8 +202,8 @@ header {
 
 }
 
-#Email:focus+label,
-#Email:not(:placeholder-shown)+label {
+#Text:focus+label,
+#Text:not(:placeholder-shown)+label {
     font-size: 0.9rem;
     color: var(--maincolor);
     transform: translateY(-1.1rem);
@@ -540,7 +540,7 @@ details {
         width: 14rem;
     }
 
-    #Email {
+    #Text {
         max-width: 24rem;
 
 
@@ -581,7 +581,7 @@ details {
         align-items: center;
     }
 
-    #Email {
+    #Text {
         width: 80vw;
     }
 
